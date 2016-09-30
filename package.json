@@ -1,0 +1,35 @@
+{
+    "author": "Quint Guvernator",
+    "dependencies": {},
+    "keywords": [],
+    "name": "hexbin",
+    "pebble": {
+        "displayName": "Hexbin",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": [
+                {
+                    "file": "images/icon.png",
+                    "menuIcon": true,
+                    "name": "ICON",
+                    "targetPlatforms": null,
+                    "type": "png"
+                }
+            ]
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt",
+            "chalk",
+            "diorite"
+        ],
+        "uuid": "78f16de1-414f-410b-b78d-558f30eb019d",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
